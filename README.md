@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> ما بيننا حدود يا نور العين
+> الشوق في القلب نار وحنين
+> في حضنك ألقى كل الأمان
+> روحك تنادي من كل مكان
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
